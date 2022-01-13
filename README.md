@@ -61,7 +61,7 @@ python report.py [DATA] [STUID] [PASSWORD]
 ## data.json 数据获取方法
 
 使用 F12 开发者工具抓包之后得到数据，按照 json 格式写入 `data.json` 中。
-
+  
 1. 登录进入 `https://weixine.歪比巴卜.edu.cn/2020/`，打开开发者工具（Chrome 可以使用 F12 快捷键），选中 Network 窗口：
 
 ![](./imgs/1.png)
